@@ -1,8 +1,8 @@
 ## About The Project
 
 [Playful Plugins](https://furimanejo.itch.io/playful-plugins) is a collection of plugins and other tools that detect events, usually from games (e.g., getting a kill, receiving damage). These events can then be connected to fun stuff like:
-* Real-life sex toys, like those from Lovense. Requires [Intiface Central](https://intiface.com/central/?ref=playfulplugins), check the list of supported devices [here](https://iostindex.com/?filter0ButtplugSupport=4?ref=playfulplugins).
-* Shocker devices, like the Pishock shock collar or the DG-LAB Coyote. Requires an [XToys](https://xtoys.app/) account, check the list of supported devices [here](https://iostindex.com/?filter0Availability=Available,DIY&filter1Connection=Digital&filter2XToysSupport=1&filter3Features=OutputsEstim)
+* Sex toys, like those from Lovense. Requires [Intiface Central](https://intiface.com/central/?ref=playfulplugins), check the list of supported devices [here](https://iostindex.com/?filter0ButtplugSupport=4?ref=playfulplugins).
+* Shock devices, like the Pishock shock collar or the DG-LAB Coyote. Requires an [XToys](https://xtoys.app/) account, check the list of supported devices [here](https://iostindex.com/?filter0Availability=Available,DIY&filter1Connection=Digital&filter2XToysSupport=1&filter3Features=OutputsEstim)
 * Vtuber models, through Vtube Studio hotkeys.
 
 ## Table Of Contents
