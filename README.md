@@ -16,7 +16,8 @@ If you liked this project and want to contribute, please consider subscribing or
 
 ## Games And Events
 ### Overwatch 2
-Events detected through computer vision (no code injection or game file modifications): eliminations, assists, saves, being eliminated, receiving and applying Mercy's beams, Zenyatta's orbs, immortality field, hack, or "prompt" effects (e.g., Stunned, Sleep, Hacked).
+Events detected through computer vision (no code injection or game file modifications): 
+* eliminations, assists, saves, being eliminated, receiving and applying Mercy's beams, Zenyatta's orbs, immortality field, hack, or "prompt" effects (e.g., Stunned, Sleep, Hacked).
 
 ### League of Legends
 Events detected through the official game client API: kill, death, assist, destroy turret or inhibitor, win or lose match, creep score and ward score, "Minions Have Spawned".
