@@ -48,8 +48,6 @@ Events detected through official in-game support (make sure to enable it in the 
 * "Deal Damage", "Take Damage", "Take Lust Damage", "Get Grappled", "Take Grapple Damage", "Equipment Breaks", "Faltered", "Afflicted", "Kidnapped", "Cursed Item Equipped", "Item Uncursed".
 
 ## How To Capture The Overlay In OBS
-In the main tab set "Hide Overlay From Taskbar" to false. 
-In OBS create a new window capture targeting the "Playful Plugins (Overlay)" window and set it's capture method from Automatic to Windows 10 (otherwise the overlay's background won't be transparent). 
-Place the overlay window capture on top of the other windows in the sources hierarchy, so it correctly draws above the other windows.
-
-
+* In Playful Plugins' main tab set "Hide Overlay From Taskbar" to false.
+* In OBS create a new window capture targeting the "Playful Plugins (Overlay)" window and set it's capture method from Automatic to Windows 10 (otherwise the overlay's background won't be transparent). 
+* Place the overlay window capture on top of the other windows in the sources hierarchy, so it correctly draws above the other windows.
