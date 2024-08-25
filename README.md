@@ -14,7 +14,7 @@ If you liked this project and want to contribute, please consider subscribing or
 * [Liberapay](https://liberapay.com/Furimanejo/),
 * [Stripe](https://donate.stripe.com/7sI3eZcExdGrc5WeUU).
 
-## Supported Games And Events
+## Games And Events
 ### Overwatch 2
 Events detected through computer vision (no code injection or game file modifications): eliminations, assists, saves, being eliminated, receiving and applying Mercy's beams, Zenyatta's orbs, immortality field, hack, or "prompt" effects (e.g., Stunned, Sleep, Hacked).
 
