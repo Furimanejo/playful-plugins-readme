@@ -4,19 +4,7 @@
 * Sex toys, like those from Lovense. Requires [Intiface Central](https://intiface.com/central/?ref=playfulplugins), check the list of supported devices [here](https://iostindex.com/?filter0ButtplugSupport=4?ref=playfulplugins).
 * Shock devices, like the Pishock shock collar or the DG-LAB Coyote. Requires an [XToys](https://xtoys.app/) account, check the list of supported devices [here](https://iostindex.com/?filter0Availability=Available,DIY&filter1Connection=Digital&filter2XToysSupport=1&filter3Features=OutputsEstim)
 * Vtuber models, through Vtube Studio hotkeys.
-
-## Table Of Contents
-* [About The Project](#about-the-project)
-* [Support](#support)
-* [Supported Games And Events](#supported-games-and-events)
-  * [Overwatch 2](#overwatch-2)
-  * [League of Legends](#league-of-legends)
-  * [Helldivers 2](#helldivers-2)
-  * [Elden Ring](#elden-ring)
-  * [Peggle Deluxe](#peggle-deluxe)
-  * [Kinky Dungeon](#kinky-dungeon)
-  * [PowerWash Simulator](#powerwash-simulator)
-    
+   
 ## Support
 If you need support please reach out to me on my [Discord Server](https://discord.gg/HswJa4tDMf).
 
@@ -28,33 +16,25 @@ If you liked this project and want to contribute, please consider subscribing or
 
 ## Supported Games And Events
 ### Overwatch 2
-Events detected through computer vision (no code injection or game file modifications): 
-* Eliminations, assists, saves, being eliminated,
-* Receiving and applying Mercy's beams and Zenyatta's orbs,
-* Receiving "prompt" effects (e.g., Stunned, Sleep, Hacked), and others.
+Events detected through computer vision (no code injection or game file modifications): eliminations, assists, saves, being eliminated, receiving and applying Mercy's beams, Zenyatta's orbs, immortality field, hack, or "prompt" effects (e.g., Stunned, Sleep, Hacked).
 
 ### League of Legends
-Events detected through the official game client API: Kill, death, assist, destroy turret or inhibitor, win or lose match, creep score and ward score, "Minions Have Spawned".
+Events detected through the official game client API: kill, death, assist, destroy turret or inhibitor, win or lose match, creep score and ward score, "Minions Have Spawned".
 
 ### Helldivers 2
-Events detected through computer vision (no code injection or game file modifications):
-* Receiving damage, healing, being low on health.
+Events detected through computer vision (no code injection or game file modifications): receiving damage or healing, being low on health.
 
 ### Elden Ring
-Events detected through computer vision (no code injection or game file modifications): 
-* Taking damage,
-* Consuming FP, and stamina bars.
+Events detected through computer vision (no code injection or game file modifications): taking damage, using FP or stamina, dying.
 
 ### Peggle Deluxe
-Events detected through computer vision (no code injection or game file modifications): 
-* BALL-O-TRON and FEVERMETER bars.
-
-### Kinky Dungeon
-Events detected through an external utility mod "KD_events.zip" (to be loaded on the game's main menu):
-* Deal Damage, Take Damage,
-* Apply/Remove Restraint/Armor, Struggle, Leash Tug,
-* Play With Yourself, Edge, Orgasm, Orgasm Denied,
-* Trigger a Trap, Open A Chest, Consume Shrine, Consume Shrine, Get Spell Orb, Get Perk, Use Stairs.
+Events detected through computer vision (no code injection or game file modifications): BALL-O-TRON and FEVERMETER bars.
 
 ### PowerWash Simulator
-A demo for user-made modules, event detected: Part Cleaned.
+A demo for user-made modules, event detected: part cleaned.
+
+### Kinky Dungeon
+Events detected through an external utility mod "KD_events.zip" (to be loaded into the game's main menu): deal Damage, take Damage, apply/remove restraint/armor, struggle, leash tug, play with yourself, edge, orgasm, orgasm denied, trigger a trap, open a chest, consume shrine, get spell orb, get perk, use stairs.
+
+### Ero Dungeons
+
