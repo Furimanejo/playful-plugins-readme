@@ -27,21 +27,21 @@ Events detected through the official game client API:
 Events detected through computer vision (no code injection or game file modifications): 
 * Receiving damage or healing, being low on health.
 
-### Elden Ring
-Events detected through computer vision (no code injection or game file modifications): 
-* Taking damage, using FP or stamina, dying.
-
 ### Peggle Deluxe
 Events detected through computer vision (no code injection or game file modifications): 
 * BALL-O-TRON and FEVERMETER bars.
 
-### PowerWash Simulator
-A demo for user-made modules, event detected: 
-* Part cleaned.
-
 ### Kinky Dungeon
 Events detected through an external utility mod "KD_events.zip" (to be loaded into the game's main menu): 
 * Deal Damage, take Damage, apply/remove restraint/armor, struggle, leash tug, play with yourself, edge, orgasm, orgasm denied, trigger a trap, open a chest, consume shrine, get spell orb, get perk, use stairs.
+
+### Elden Ring
+Events detected through computer vision (no code injection or game file modifications, disabling EAC not necessary): 
+* Taking damage, using FP or stamina, dying.
+
+### PowerWash Simulator
+A demo for user-made modules, event detected: 
+* Part cleaned.
 
 ### Ero Dungeons
 Events detected through official in-game support (make sure to enable it in the game's settings): 
