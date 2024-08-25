@@ -35,7 +35,7 @@ Events detected through computer vision (no code injection or game file modifica
 Events detected through an external utility mod "KD_events.zip" (to be loaded into the game's main menu): 
 * Deal Damage, take Damage, apply/remove restraint/armor, struggle, leash tug, play with yourself, edge, orgasm, orgasm denied, trigger a trap, open a chest, consume shrine, get spell orb, get perk, use stairs.
 
-### Elden Ring
+### [Elden Ring](https://store.steampowered.com/app/1245620)
 Events detected through computer vision (no code injection or game file modifications, disabling EAC not necessary): 
 * Taking damage, using FP or stamina, dying.
 
