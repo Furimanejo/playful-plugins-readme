@@ -49,5 +49,5 @@ Events detected through official in-game support (make sure to enable it in the 
 
 ## How To Capture The Overlay In OBS
 * In Playful Plugins' main tab set "Hide Overlay From Taskbar" to false.
-* In OBS create a new window capture targeting the "Playful Plugins (Overlay)" window and set it's capture method from Automatic to Windows 10 (otherwise the overlay's background won't be transparent). 
+* In OBS create a new window capture targeting the "Playful Plugins (Overlay)" window and set it's capture method from "Automatic" to "Windows 10" (otherwise the overlay's background won't be transparent). 
 * Place the overlay window capture on top of the other windows in the sources hierarchy, so it correctly draws above the other windows.
