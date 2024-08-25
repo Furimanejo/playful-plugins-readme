@@ -47,6 +47,13 @@ A demo for user-made modules, event detected:
 Events detected through official in-game support (make sure to enable it in the game's settings): 
 * "Deal Damage", "Take Damage", "Take Lust Damage", "Get Grappled", "Take Grapple Damage", "Equipment Breaks", "Faltered", "Afflicted", "Kidnapped", "Cursed Item Equipped", "Item Uncursed".
 
+## How Events Work
+Playful Plugins keeps a score, events can add points to that score, those points decrease over time according to each plugin's "Decay" variable.
+
+Events can also trigger patterns, each pattern is defined as a series of values between 0 and 100 (custom patterns may be added by editing the config_main.json file). Pattern triggers consist of an intensity value that scales the respective pattern between 0% and 100%, and a disable delay value that dictate for how long the pattern should play after the event ends. Triggering an event multiple times or continuously refreshes the disable delay.
+
+In the end a combination of points and patterns is used to trigger the connected toys, according to the values set for each device (defaults to 0% intensity at 0 points and 100% intensity at 100 points).
+
 ## How To Capture The Overlay In OBS
 * In Playful Plugins' main tab set "Hide Overlay From Taskbar" to false.
 * In OBS create a new window capture targeting the "Playful Plugins (Overlay)" window and set it's capture method from "Automatic" to "Windows 10" (otherwise the overlay's background won't be transparent). 
