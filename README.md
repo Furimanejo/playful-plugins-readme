@@ -17,25 +17,31 @@ If you liked this project and want to contribute, please consider subscribing or
 ## Games And Events
 ### Overwatch 2
 Events detected through computer vision (no code injection or game file modifications): 
-* eliminations, assists, saves, being eliminated, receiving and applying Mercy's beams, Zenyatta's orbs, immortality field, hack, or "prompt" effects (e.g., Stunned, Sleep, Hacked).
+* Eliminations, assists, saves, being eliminated, receiving and applying Mercy's beams, Zenyatta's orbs, immortality field, hack, or "prompt" effects (e.g., Stunned, Sleep, Hacked).
 
 ### League of Legends
-Events detected through the official game client API: kill, death, assist, destroy turret or inhibitor, win or lose match, creep score and ward score, "Minions Have Spawned".
+Events detected through the official game client API: 
+* Kill, death, assist, destroy turret or inhibitor, win or lose match, creep score and ward score, "Minions Have Spawned".
 
 ### Helldivers 2
-Events detected through computer vision (no code injection or game file modifications): receiving damage or healing, being low on health.
+Events detected through computer vision (no code injection or game file modifications): 
+* Receiving damage or healing, being low on health.
 
 ### Elden Ring
-Events detected through computer vision (no code injection or game file modifications): taking damage, using FP or stamina, dying.
+Events detected through computer vision (no code injection or game file modifications): 
+* Taking damage, using FP or stamina, dying.
 
 ### Peggle Deluxe
-Events detected through computer vision (no code injection or game file modifications): BALL-O-TRON and FEVERMETER bars.
+Events detected through computer vision (no code injection or game file modifications): 
+* BALL-O-TRON and FEVERMETER bars.
 
 ### PowerWash Simulator
-A demo for user-made modules, event detected: part cleaned.
+A demo for user-made modules, event detected: 
+* Part cleaned.
 
 ### Kinky Dungeon
-Events detected through an external utility mod "KD_events.zip" (to be loaded into the game's main menu): deal Damage, take Damage, apply/remove restraint/armor, struggle, leash tug, play with yourself, edge, orgasm, orgasm denied, trigger a trap, open a chest, consume shrine, get spell orb, get perk, use stairs.
+Events detected through an external utility mod "KD_events.zip" (to be loaded into the game's main menu): 
+* Deal Damage, take Damage, apply/remove restraint/armor, struggle, leash tug, play with yourself, edge, orgasm, orgasm denied, trigger a trap, open a chest, consume shrine, get spell orb, get perk, use stairs.
 
 ### Ero Dungeons
 
