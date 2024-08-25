@@ -15,23 +15,23 @@ If you liked this project and want to contribute, please consider subscribing or
 * [Stripe](https://donate.stripe.com/7sI3eZcExdGrc5WeUU).
 
 ## Games And Events
-### Overwatch 2
+### [Overwatch 2](https://store.steampowered.com/app/2357570)
 Events detected through computer vision (no code injection or game file modifications): 
 * Eliminations, assists, saves, being eliminated, receiving and applying Mercy's beams, Zenyatta's orbs, immortality field, hack, or "prompt" effects (e.g., Stunned, Sleep, Hacked).
 
-### League of Legends
+### [League of Legends](https://www.leagueoflegends.com/)
 Events detected through the official game client API: 
 * Kill, death, assist, destroy turret or inhibitor, win or lose match, creep score and ward score, "Minions Have Spawned".
 
-### Helldivers 2
+### [Helldivers 2](https://store.steampowered.com/app/553850)
 Events detected through computer vision (no code injection or game file modifications): 
 * Receiving damage or healing, being low on health.
 
-### Peggle Deluxe
+### [Peggle Deluxe](https://store.steampowered.com/app/3480)
 Events detected through computer vision (no code injection or game file modifications): 
 * BALL-O-TRON and FEVERMETER bars.
 
-### Kinky Dungeon
+### [Kinky Dungeon](https://ada18980.itch.io/kinky-dungeon)
 Events detected through an external utility mod "KD_events.zip" (to be loaded into the game's main menu): 
 * Deal Damage, take Damage, apply/remove restraint/armor, struggle, leash tug, play with yourself, edge, orgasm, orgasm denied, trigger a trap, open a chest, consume shrine, get spell orb, get perk, use stairs.
 
@@ -39,11 +39,11 @@ Events detected through an external utility mod "KD_events.zip" (to be loaded in
 Events detected through computer vision (no code injection or game file modifications, disabling EAC not necessary): 
 * Taking damage, using FP or stamina, dying.
 
-### PowerWash Simulator
+### [PowerWash Simulator](https://store.steampowered.com/app/1290000)
 A demo for user-made modules, event detected: 
 * Part cleaned.
 
-### Ero Dungeons
+### [Ero Dungeons](https://erodungeons.itch.io/ero-dungeons)
 Events detected through official in-game support (make sure to enable it in the game's settings): 
 * "Deal Damage", "Take Damage", "Take Lust Damage", "Get Grappled", "Take Grapple Damage", "Equipment Breaks", "Faltered", "Afflicted", "Kidnapped", "Cursed Item Equipped", "Item Uncursed".
 
