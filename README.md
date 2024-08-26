@@ -4,9 +4,12 @@
 * Sex toys, like those from Lovense (requires [Intiface Central](https://intiface.com/central/?ref=playfulplugins), check the supported devices [here](https://iostindex.com/?filter0ButtplugSupport=4?ref=playfulplugins)).
 * Shock devices, like the Pishock shock collar or DG-LAB Coyote (requires an [XToys](https://xtoys.app/) account, check the supported devices [here](https://iostindex.com/?filter0Availability=Available,DIY&filter1Connection=Digital&filter2XToysSupport=1&filter3Features=OutputsEstim)).
 * Vtuber models, through Vtube Studio hotkeys.
-   
-## Support
-If you need support please reach out to me on my [Discord Server](https://discord.gg/HswJa4tDMf).
+
+Consider joining my [Discord Server](https://discord.gg/HswJa4tDMf) if:
+* You need help setting up the app or are experiencing problems with it.
+* You're a game dev interested in adding.
+* You're a streamer or content creator using this app, I'd be happy to watch you and share your work.
+* You're looking for like-minded people to hang out with.
 
 If you liked this project and want to contribute, please consider subscribing or donating at:
 * [Itch](https://furimanejo.itch.io/playful-plugins),
@@ -60,3 +63,8 @@ Events can also trigger patterns, each pattern is defined as a series of values 
 * In Playful Plugins' main tab set "Hide Overlay From Taskbar" to false.
 * In OBS create a new window capture targeting the "Playful Plugins (Overlay)" window and set it's capture method from "Automatic" to "Windows 10" (otherwise the overlay's background won't be transparent). 
 * Place the overlay window capture on top of the other windows in the sources hierarchy, so it correctly draws above the other windows.
+
+## User-made Modules
+WIP
+## 
+
