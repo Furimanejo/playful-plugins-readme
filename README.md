@@ -66,5 +66,6 @@ Events can also trigger patterns, each pattern is defined as a series of values 
 
 ## User-made Modules
 WIP
-## 
+## Windowed Mode Border Fix
+WIP
 
