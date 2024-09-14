@@ -28,7 +28,7 @@ Events detected through the official game client API:
 
 ### [Helldivers 2](https://store.steampowered.com/app/553850)
 Events detected through computer vision (no code injection or game file modifications): 
-* Receiving damage or healing, being low on health
+* Receiving damage or healing, being low on health, Objective Completed and Mission Completed
 
 ### [Peggle Deluxe](https://store.steampowered.com/app/3480)
 Events detected through computer vision (no code injection or game file modifications): 
@@ -36,7 +36,7 @@ Events detected through computer vision (no code injection or game file modifica
 
 ### [Kinky Dungeon](https://ada18980.itch.io/kinky-dungeon)
 Events detected through an external utility mod "KD_events.zip" (to be loaded into the game's main menu): 
-* Deal Damage, take Damage, apply/remove restraint/armor, struggle, leash tug, play with yourself, edge, orgasm, orgasm denied, trigger a trap, open a chest, consume shrine, get spell orb, get perk, use stairs
+* Deal Damage, take Damage, take electric damage, apply/remove restraint/armor, struggle, leash tug, play with yourself, edge, orgasm, orgasm denied, trigger a trap, open a chest, consume shrine, get spell orb, get perk, use stairs
 
 ### [Elden Ring](https://store.steampowered.com/app/1245620)
 Events detected through computer vision (no code injection or game file modifications, disabling EAC not necessary): 
@@ -64,8 +64,11 @@ Events can also trigger patterns, each pattern is defined as a series of values 
 * In OBS create a new window capture targeting the "Playful Plugins (Overlay)" window and set it's capture method from "Automatic" to "Windows 10" (otherwise the overlay's background won't be transparent). 
 * Place the overlay window capture on top of the other windows in the sources hierarchy, so it correctly draws above the other windows.
 
+## User Configuration Files
+The config folder for Playful Plugins defaults to the path "AppData/Local/Playful Plguins", with this the user configurations will be shared between versions. If you still want PP to use a local config folder simply create a folder named "config" next to the PP executable.
+
+## Windowed Mode And Border Offset
+Detecting windowed apps is finicky, most windows have an invisible border that extends beyond the desired window area and the size of that border varies from app to app and system to system. To work around this Playful Plugins exposes values that will be subtracted from the border of a windowed app, you can fiddle with these to make the detection area match the app area.
+
 ## User-made Modules
 WIP
-## Windowed Mode Border Fix
-WIP
-
